@@ -1,4 +1,4 @@
-module bitbucket.org/linksportsinc/dynamodb
+module github.com/linksports/dynamodb
 
 go 1.16
 
